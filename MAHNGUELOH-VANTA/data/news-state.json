@@ -1,0 +1,270 @@
+{
+  "enabled": false,
+  "checkIntervalMs": null,
+  "channels": {
+    "facebook": {
+      "enabled": false
+    },
+    "whatsapp": {
+      "enabled": true
+    },
+    "telegram": {
+      "enabled": false
+    }
+  },
+  "seenIds": [],
+  "retryQueue": [],
+  "logs": [
+    {
+      "at": "2026-08-07T21:23:50.032Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-13T19:59:18.728Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T07:28:32.747Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T08:19:12.799Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T09:03:00.952Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T09:08:06.279Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T09:11:31.696Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T09:24:16.725Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-14T09:49:54.859Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T15:42:00.978Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T15:53:17.177Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T15:58:00.657Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T16:37:44.320Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T16:52:58.636Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T17:13:49.191Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T17:25:24.212Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T17:28:18.301Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T17:50:42.289Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T18:08:24.653Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T21:30:36.237Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T21:41:50.448Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T21:46:07.537Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T21:52:15.356Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-15T21:58:59.393Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-16T04:52:29.151Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-16T05:09:48.317Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-16T05:15:08.291Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-16T05:20:46.045Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-16T05:36:36.898Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-26T12:06:01.929Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-26T16:49:55.563Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-26T16:52:16.629Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T08:42:26.737Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T08:43:37.522Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T09:49:43.673Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T09:54:38.267Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T10:03:08.579Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T10:11:54.289Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T10:23:05.749Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T10:59:37.381Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T11:12:21.571Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T11:17:09.432Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T11:46:59.295Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T11:51:48.896Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T12:24:00.344Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    },
+    {
+      "at": "2026-08-27T12:49:41.871Z",
+      "level": "info",
+      "message": "Scheduler started — checking every ~45s (monitor is DISABLED — .news on to activate)"
+    }
+  ],
+  "today": {
+    "date": null,
+    "count": 0,
+    "categories": {}
+  },
+  "categoryQuotas": {
+    "SPORT": 0.1,
+    "ENTERTAINMENT": 0.35
+  },
+  "lastArticle": null,
+  "stats": {
+    "totalPosted": 0,
+    "lastCheckAt": null,
+    "lastPostAt": null,
+    "lastError": null,
+    "channelTotals": {
+      "facebook": 0,
+      "whatsapp": 0,
+      "telegram": 0
+    }
+  }
+}
